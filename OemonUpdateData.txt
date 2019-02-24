@@ -1,0 +1,40 @@
+Alpha 1.0.0.0 dt 201902162040_001
+	02-16 20:40完成所有框架
+Alpha 1.0.0.1 dt 201902162042_001
+	02-16 完成MainFragment Hitokoto
+Alpha 1.0.0.2 dt 201902170051_001
+	02-17 完成DoWork ToolBar 利用Android.string解析是否需要toolbar
+	02-17 完成AboutOemon UI ,Intent需要后续添加
+	02-17 完成DoWork ToolBar 实现左侧返回箭头
+Alpha 1.0.0.3 dt 201902182328_001
+	02-18 完成SuggestionAndFeedback UI,Intent需要后续添加
+Alpha 1.0.1.1 dt 201902190007_001
+	02-19 完成 ToolsItemHelper,DoWoek下的 NameId 统一管理，避免出错
+Alpha 1.0.2.1 dt 201902200017_001
+	02-20 主页viewpager优化为 分类，主页，功能(全部功能)
+	02-20 修复MainButtonbar不显示的情况下因 setImgRes造成的闪退问题
+Alpha 1.0.2.2 dt 201902202300_001
+	02-20 完成 文件读写实现FileHelper
+	02-20 完成 从github上获取更新数据
+	02-20 完成 ApiHelper
+Alpha 1.0.2.3 dt 201902210004_001
+	02-21 修复了 打开软件时 hitokoto 显示问题，现在只在第一次安装开启软件时会显示默认hitokoto，每次运行会存储一句hi到sd卡
+Alpha 1.0.2.4 dt 201902210059_001
+	02-21 修复了 收藏/推荐/最新为空时的是否显示设置问题
+	02-21 修复 主页收藏推荐，最新的ti时收藏栏无法及时更新
+	02-21 调整item_aboutoemon图标大小为16dp，img外边距为16dp
+Alpha 1.0.2.5 dt 201902211307_001
+	02-21 将Helper类归类调整到Helper文件夹下
+Alpha 1.0.2.6 dt 201902231032_001
+	02-23 修复了在分类和全部功能页面横屏时闪退的问题 添加<Activity android:configChanges="keyboardHidden|orientation|screenSize"/>
+Alpha 1.0.2.7 dt 201902231257_001
+	02-23 完成二维码扫描模块 开源库：com.github.XuDaojie:QRCode-Android:v0.4.2
+Alpha 1.0.2.8 dt 201902240000_001
+	02-24 完成分贝计
+	02-24 优化sd卡文件结构
+Alpha 1.0.2.9 dt 201902241140_001
+	02-24 优化分贝计平均分贝计算方法
+	02-24 分贝计增加分贝tips
+	02-24 设置新增显示标题栏开关
+Alpha 1.0.3.0 dt 201902241506_001
+	02-24 新Oemon!
