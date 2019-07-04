@@ -1,10 +1,6 @@
 {
-"DNid":20190224004,
-"versionName":"Alpha 1.0.3.9 dt 201902241506_001",
-"versionCode":3,
-"NoticeType":"OemonAppUpdate",
-"FirstTitle":"好消息好消息！",
-"SecondTitle":"百年一遇的Oemon更新来啦！",
-"Info":"更新信息Alpha 1.0.3.9",
+"DNid":20190704001,
+"NoticeType":"update",
+"Data":"好消息好消息！百年一遇的Oemon更新来啦！更新信息Alpha 1.0.3.9",
 "Date":"2019-02-19 22:41"
 }
